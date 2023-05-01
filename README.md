@@ -1,7 +1,7 @@
 # git-prj
 
 Abstract : This project is to practice git.
-[See Deom](http://www.google.com/)
+[See Demo](http://www.google.com/)
 
 ## Vim modes
 
