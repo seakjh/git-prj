@@ -17,6 +17,8 @@ $ cd {repo name}
 $ vi README.md
 ```
 
+Now now
+
 ## How to start
 ```python
 def hello(name):
